@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtPass" type="id">txtPass</item>
+    <item name="edtPass" type="id">edtPass</item>
+    <item name="edtUsrN" type="id">edtUsrN</item>
+    <item name="txtUsrN" type="id">txtUsrN</item>
+    <item name="edtSection" type="id">edtSection</item>
+    <item name="txtName" type="id">txtName</item>
+    <item name="edtName" type="id">edtName</item>
+    <item name="txtSection" type="id">txtSection</item>
+    <item name="edtPassword" type="id">edtPassword</item>
+    <item name="txtPassword" type="id">txtPassword</item>
+    <item name="edtUsername" type="id">edtUsername</item>
+    <item name="txtUsername" type="id">txtUsername</item>
+    <item name="divider" type="id">divider</item>
+    <item name="divider2" type="id">divider 2</item>
+    <item name="btnLogIn" type="id">btnLogin</item>
+    <item name="txtRegister" type="id">txtRegister</item>
+    <item name="btnRegister" type="id">btnRegister</item>
+</resources>
